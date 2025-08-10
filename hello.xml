@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 <hello>From master</hello>
+=======
+<hello>From branch</hello>
+>>>>>>> GitWork
